@@ -83,7 +83,7 @@ nav ul li a.active {
     color: #6db329;
 }
 #bckimage {
-    background-image: url("../img/new_fond.jpeg");
+    background-image: url("../img/Ordi.jpeg");
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -572,7 +572,7 @@ footer {
         height: 78px;
     }
     #bckimage {
-        background-image: url("../img/new_fond.jpeg");
+        background-image: url("../img/Mobile.jpeg");
         width: 100%;
         height: 100vh;
         background-size: cover;
