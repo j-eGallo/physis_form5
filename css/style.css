@@ -622,4 +622,12 @@ footer {
         background-image: none;
         height: 150vh;
     }
+
+
+    #chisono img {
+    height: auto;
+    width: 79%;
+    margin-top: 7%;
+    margin-bottom: 9%;
+}
 }
