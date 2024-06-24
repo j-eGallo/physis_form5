@@ -83,7 +83,7 @@ nav ul li a.active {
     color: #6db329;
 }
 #bckimage {
-    background-image: url("../new_fond.jpeg");
+    background-image: url("../img/new_fond.jpeg");
     width: 100%;
     height: 100vh;
     background-size: cover;
