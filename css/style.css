@@ -572,7 +572,7 @@ footer {
         height: 78px;
     }
     #bckimage {
-        background-image: url("../cover.jpeg");
+        background-image: url("../img/new_fond");
         width: 100%;
         height: 100vh;
         background-size: cover;
